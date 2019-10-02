@@ -14,7 +14,7 @@ easy level has 3 different colors to choose from and the hard level has 6.
 
 ![print screen](https://github.com/YelenaMerzlyakova/ColorGame/blob/master/colorgame2.png)
 
-As you can see it is an easy exercise to test Javascript skills while having fun. This game is a crowd pleaser and slightly addictive ;) 
+As you can see it is an easy exercise to test Javascript skills while having fun. This game is a crowd pleaser and slightly addictive :wink: .
 
 
 ## A bit of code explained

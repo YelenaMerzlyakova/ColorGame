@@ -28,7 +28,7 @@ function randomColor(){
 	//pick a "blue" from  0 -255
 	var b = Math.floor(Math.random() * 256);
 	return "rgb(" + r + ", " + g + ", " + b + ")";
-}´´´
+}```
 
 
 Check out the rest of the code on the .js file! 

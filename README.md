@@ -8,7 +8,7 @@ easy level has 3 different colors to choose from and the hard level has 6.
 
 **Example**
 
-![print screen](https://github.com/YelenaMerzlyakova/ColorGame/blob/master/colorgame1.jpg)
+![print screen](https://github.com/YelenaMerzlyakova/ColorGame/blob/master/colorgame1.png)
 
 **Result**
 

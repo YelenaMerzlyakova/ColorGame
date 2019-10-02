@@ -14,8 +14,12 @@ easy level has 3 different colors to choose from and the hard level has 6.
 
 ![print screen](https://github.com/YelenaMerzlyakova/ColorGame/blob/master/colorgame2.png)
 
+As you can see it is an easy exercise to test Javascript skills while having fun. This game is a crowd pleaser and slightly addictive ;) 
+
 
 ## A bit of code explained
+
+Here is a small snippet of my code. Check out the rest of the file to see the complete code. 
 
 Here is how you get a random color. 
 
@@ -30,9 +34,5 @@ function randomColor(){
 	return "rgb(" + r + ", " + g + ", " + b + ")";
 }```
 
-
-Check out the rest of the code on the .js file! 
-
-## 
 
 

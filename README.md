@@ -13,3 +13,20 @@ easy level has 3 different colors to choose from and the hard level has 6.
 **Result**
 
 ![print screen](https://github.com/YelenaMerzlyakova/ColorGame/blob/master/colorgame2.png)
+
+
+## Code explained
+
+Here is how you get a random color. 
+
+```Javascript
+function randomColor(){
+	//pick a "red" from 0 - 255
+	var r = Math.floor(Math.random() * 256);
+	//pick a "green" from  0 -255
+	var g = Math.floor(Math.random() * 256);
+	//pick a "blue" from  0 -255
+	var b = Math.floor(Math.random() * 256);
+	return "rgb(" + r + ", " + g + ", " + b + ")";
+}```
+

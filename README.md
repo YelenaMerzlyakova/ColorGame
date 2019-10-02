@@ -7,6 +7,6 @@ to guess the color by looking at the RGB color at the top of the page. There are
 easy level has 3 different colors to choose from and the hard level has 6. 
 
 
-![print screen](colorgame.jpg)
+![print screen](https://github.com/YelenaMerzlyakova/ColorGame/blob/master/colorgame1.jpg)
 
 Move along.

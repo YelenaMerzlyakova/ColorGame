@@ -12,4 +12,4 @@ easy level has 3 different colors to choose from and the hard level has 6.
 
 **Result**
 
-![print screen](https://github.com/YelenaMerzlyakova/ColorGame/blob/master/colorgame2.jpg)
+![print screen](https://github.com/YelenaMerzlyakova/ColorGame/blob/master/colorgame2.png)

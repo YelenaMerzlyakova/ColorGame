@@ -1,5 +1,5 @@
 # ColorGame
-Can you guess the color? [Let's play!](https://yelenamerzlyakova.github.io/ColorGame/)
+:fire: Can you guess the color? :fire:  [Let's play!](https://yelenamerzlyakova.github.io/ColorGame/)
 
 
 This is a game I created to refresh my Javascript skills after mostly working with PHP. The goal of the game is 
